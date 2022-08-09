@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121.
+-->
+<Project>
+  <PropertyGroup>
+    <_PublishTargetUrl>C:\Users\dougl\source\repos\WordService_rd\WordService_rd\bin\app.publish\</_PublishTargetUrl>
+    <History>True|2022-06-21T03:14:30.5180517Z;True|2022-06-20T20:12:45.5860477-07:00;True|2022-06-20T19:46:20.5049199-07:00;True|2022-06-20T19:45:38.6187656-07:00;True|2022-06-20T19:37:25.7860366-07:00;</History>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="App_Data/hypernyms.txt">
+      <publishTime>06/20/2022 12:31:33</publishTime>
+    </File>
+    <File Include="App_Data/synsets.txt">
+      <publishTime>06/20/2022 12:31:50</publishTime>
+    </File>
+    <File Include="bin/HtmlAgilityPack.dll">
+      <publishTime>06/01/2022 17:05:56</publishTime>
+    </File>
+    <File Include="bin/HtmlAgilityPack.pdb">
+      <publishTime>06/01/2022 17:05:56</publishTime>
+    </File>
+    <File Include="bin/Newtonsoft.Json.dll">
+      <publishTime>03/17/2021 13:03:36</publishTime>
+    </File>
+    <File Include="bin/NuGet.Common.dll">
+      <publishTime>04/13/2022 14:21:38</publishTime>
+    </File>
+    <File Include="bin/NuGet.Configuration.dll">
+      <publishTime>04/13/2022 14:21:54</publishTime>
+    </File>
+    <File Include="bin/NuGet.Frameworks.dll">
+      <publishTime>04/13/2022 14:22:06</publishTime>
+    </File>
+    <File Include="bin/NuGet.Packaging.dll">
+      <publishTime>04/13/2022 14:23:46</publishTime>
+    </File>
+    <File Include="bin/NuGet.Protocol.dll">
+      <publishTime>04/13/2022 14:23:48</publishTime>
+    </File>
+    <File Include="bin/NuGet.Versioning.dll">
+      <publishTime>04/13/2022 14:24:24</publishTime>
+    </File>
+    <File Include="bin/WordService_rd.dll">
+      <publishTime>06/20/2022 20:12:43</publishTime>
+    </File>
+    <File Include="bin/WordService_rd.pdb">
+      <publishTime>06/20/2022 20:12:43</publishTime>
+    </File>
+    <File Include="PrecompiledApp.config">
+      <publishTime>06/20/2022 20:12:43</publishTime>
+    </File>
+    <File Include="Service1.svc">
+      <publishTime>06/12/2022 10:16:10</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>06/20/2022 20:12:43</publishTime>
+    </File>
+  </ItemGroup>
+</Project>
